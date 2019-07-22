@@ -3,6 +3,8 @@
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <BlockQuote quote="Hello to the world of Vue JS!!" />
+
+    <h2>Testing Input Control</h2>
   </div>
 </template>
 
