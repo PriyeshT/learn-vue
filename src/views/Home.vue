@@ -2,7 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <BlockQuote quote="Hello to the world of Vue JS" />
+    <BlockQuote quote="Hello to the world of Vue JS!!" />
   </div>
 </template>
 
